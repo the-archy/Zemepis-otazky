@@ -87,11 +87,11 @@
 		
 
 ### 10. Do Středozemního moře vtéká jedna řeka. 
-	**Ebro** - Tajo - Loire 
+**Ebro** - Tajo - Loire 
 	
 
 ### 11. Do Baltského moře nevtéká jedna řeka. Škrtni ji.  
-	Visla - Západní Dvina - ~~Severní Dvina~~
+Visla - Západní Dvina - ~~Severní Dvina~~
 	
 
 ### 12. Napiš alespoň 4 názvy průlivů v Evropě 
