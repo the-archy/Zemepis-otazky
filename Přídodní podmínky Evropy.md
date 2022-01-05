@@ -1,5 +1,6 @@
 # Povrch a Vodstvo
 1. Vyjmenuj 4 evropské nížiny (ne v ČR)
+		
 		- Velká panonská nížina
 		- Východoevropská nížina
 		- Francouzká nížina
@@ -15,6 +16,7 @@
 	3. Irsko
 
 3. Kudy prochází pomyslná hranice mezi Asií a E? 
+		
 		- Východní úpatí Uralu
 		- Řeka Emba
 		- Kaspické moře
