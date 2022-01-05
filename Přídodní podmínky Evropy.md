@@ -297,60 +297,75 @@ N/A
 
 
 1. Ostrov v severním Atlantiku, stejnojmenný stát, hlavní město  Reykjavík, sopka Hekla
+
 Island 
 
 
 2. Poloostrov, na kterém leží Dánsko.
+
 Jutský
 
 
 3. Poloostrov v Jaderském moři, náležející částečně k Itálii  (přístav Terst) a Slovinsku (přístav Koper), většinou pak k  Chorvatsku (přístav Pula). 
+
 Istrie
 
 
 4. Španělské souostroví ve Středozemním moři, jedním z ostrovů  je Mallorca 
+
 Baleáry
 
 
 5. Italský ostrov ve Středozemním moři ležící jižně od Korsiky
+
 Sardínie
 
 
 6. Poloostrov na jihu Řecka, na jehož území leží město Sparta
+
 Peloponés
 
 
 7. Španělský ostrov ve Středozemním moři, jeden z baleárských ostrovů 
+
 Mallorca
 
 
 8. Poloostrov na jihozápadě Evropy, na němž leží např. Španělsko
+
 Pyrenejský
 
 
 9. Donedávna ukrajinský poloostrov v severní části Černého  moře (silný ruský vliv) 
+
 Krym
 
 
 10. Německý ostrov v Baltském moři ve spolkové zemi  Meklenbursko-Přední Pomořansko (oblíbená destinace za éry  socialismu) 
+
 Rujana
 
 
 11. Největší italský ostrov ve Středozemním moři, město Palermo, mafie 
+
 Sicílie
 
 
 12. Ostrov ve Středozemním moři, člen EU a Commonwealthu, křesťanský vojenský řád
+
 Malta 
 
 
 13. Francouzský ostrov ve Středozemním moři, v jehož hlavním  městě Ajacciu se narodil Napoléon Bonaparte
+
 Korsika
 
 
 14. Chorvatský ostrov v Jaderském moři jmenující se stejně jako jedna část lidského těla
+
 Krk 
 
 
 15. Největší řecký ostrov ve Středozemním moři, místo zrození  boha Dia
+
 Kréta
